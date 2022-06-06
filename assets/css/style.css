@@ -146,3 +146,56 @@ section {
     display: block;
 }
 
+#contact > h2  {
+		
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    
+}
+
+
+.contact-boxes-container {
+    width: 66%;
+    margin: 0 auto;
+    
+
+}
+
+.contact-box-left {
+    width: 250px;
+    margin-top: -15px;
+    text-align: left;
+    float: left;
+    
+}
+
+.contact-box-right {
+    width: 250px;
+    text-align: right;
+    margin-top: -15px;
+    float: right;
+    
+
+}
+
+.contact-box-center {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 60px;
+}
+
+th,
+td {
+    border-bottom: 1px solid #000;
+}
+
+ul {
+    padding: 0;
+}
+
+
