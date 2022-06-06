@@ -81,4 +81,14 @@ header-content > h2 {
 
 /* main section with background image */
 
+.background {
+    height: 900px;
+	width: 100%; 
+    background: url(../images/Dublin.jpg);
+    background-attachment: fixed; 
+    color:#000;
+    background-color: #ff8c00;;
+	background-size: cover;
+    position: relative;
+}
 
