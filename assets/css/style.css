@@ -132,3 +132,17 @@ main > p {
 
 }
 
+/*section contact */
+
+#contact {
+		
+    background-color: #FFE4C4;
+    color: #000;
+    
+}
+
+section {
+
+    display: block;
+}
+
