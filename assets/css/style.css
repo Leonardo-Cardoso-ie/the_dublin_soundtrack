@@ -7,8 +7,10 @@
 }
 
 body {
-   font-family: Montserrat, sans serif;
-   font-weight: 300 ;
+   font-family: Montserrat, sans-serif;
+   font-weight: 300;
+   color:  #ff8c00;
+	
 
 }
 
@@ -30,3 +32,24 @@ header {
 #logo {
     font-size: 400%;
 }
+
+
+
+/* navigation links */
+
+#menu {
+    font-size: 120%;
+}
+
+
+#menu {
+    line-height: 75px;
+}
+
+#menu li {
+	float: right;
+	list-style-type: none;
+	margin-right: 30px;
+}
+
+
