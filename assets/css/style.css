@@ -198,4 +198,23 @@ ul {
     padding: 0;
 }
 
+/* google maps section */
+
+#map-wrapper {
+
+    height:330px;
+    margin-bottom: 140px;
+}
+
+#map {
+    height: 110%;
+    width: 100%;
+    border: none;
+
+}
+
+/* footer */
+
+
+
 
