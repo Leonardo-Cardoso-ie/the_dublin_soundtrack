@@ -21,18 +21,34 @@ header {
     background-image: url('../images/imgheader1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-
+    
 }
 
 .header-content h1, h2 {
     font-family: Oswald, sans-serif;
     color: #ff8c00;
+    position: relative;
+	top: 60px;
 }
 
 #logo {
     font-size: 400%;
+    position: absolute;
+	margin:0;
+	left: 25%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
 }
 
+header-content > h2 {
+	font-size: 150%;
+	position: absolute;
+	margin: 0;
+	top: 120px;
+	left: 25%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
 
 
 /* navigation links */
