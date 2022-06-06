@@ -11,3 +11,14 @@ body {
    font-weight: 300 ;
 
 }
+
+/* headings and logo */
+
+header {
+    
+}
+
+.header-content h1, h2 {
+    font-family: Oswald, sans-serif;
+    color: #ff8c00;
+}
