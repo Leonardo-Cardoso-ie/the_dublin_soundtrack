@@ -3,13 +3,13 @@
 * {
     margin: 0;
     padding: 0;
-    border: none
+    border: none;
 }
 
 body {
    font-family: Montserrat, sans-serif;
    font-weight: 300;
-   color:  #ff8c00;
+   color: #ff8c00;
 	
 
 }
@@ -20,7 +20,7 @@ header {
     height: 650px;
     background-image: url('../images/imgheader1.jpg');
     background-size: cover;
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
 
 }
 
