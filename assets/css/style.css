@@ -15,10 +15,18 @@ body {
 /* headings and logo */
 
 header {
-    
+    height: 650px;
+    background-image: url('../images/imgheader1.jpg');
+    background-size: cover;
+    background-repeat: no repeat;
+
 }
 
 .header-content h1, h2 {
     font-family: Oswald, sans-serif;
     color: #ff8c00;
+}
+
+#logo {
+    font-size: 400%;
 }
