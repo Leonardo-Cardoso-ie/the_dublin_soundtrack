@@ -465,5 +465,21 @@ fieldset .group .area {
 
 }
 
+.area input[type="text"], .area input[type="email"], .area select, .area textarea {
+    padding: 0.2em;
+    border: 1px solid #ff8c00;
+
+    display: block;
+
+}
+
+.area select option {
+    padding-right: 1em;
+}
+
+.area input:focus, .area select:focus, .campo textarea:focus {
+    background: #3a3a3a;
+}
+
 
 
