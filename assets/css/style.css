@@ -374,5 +374,49 @@ footer > span {
 
 }
 
+.text-form {
+    background-color: #FFE4C4;
+    width: 80%;
+    padding: 5%;
+    margin: auto;
+    border: 1px solid #ff8c00;
+    border-radius: 15px;
+    opacity: 0.9;
+    font-size: 18px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 960px;
+
+}
+
+
+
+#content1{
+    color: #000;
+    text-align: left;
+
+}
+
+#content1 > h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#content1 > p {
+    position: relative;
+    top: 50%;
+    font-family: Montserrat, sans-serif;
+    text-indent: 30px;
+    line-height: 2em;
+    font-size: 1em;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+
 
 
