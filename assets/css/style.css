@@ -6,6 +6,11 @@
     border: none;
 }
 
+
+html {
+    scroll-behavior: smooth;
+}		
+
 body {
    font-family: Montserrat, sans-serif;
    font-weight: 300;
