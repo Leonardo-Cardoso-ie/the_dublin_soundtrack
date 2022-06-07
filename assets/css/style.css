@@ -358,4 +358,21 @@ footer > span {
     position: relative;
 }
 
+.logo-header {
+    font-family: Oswald, sans-serif;
+    position: relative;
+    top: 30%;
+}
+
+.logo-header > h1 {
+    margin:0;
+    position: absolute;
+    font-size: 400%;
+    left: 25%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+
+}
+
+
 
