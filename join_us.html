@@ -53,6 +53,92 @@
 			<p>cross your fingers and have faith, if you have been selected,<strong> we will get in touch with you</strong></p>
 
 		</div>
+        <div id="body2">
+			<div>
+				<h2 id="title">Sign up</h2>
+
+				<br>
+			</div>
+
+			<form>
+
+				<fieldset class="group">
+					<div class="area">
+						<label for="name"><strong>Name:</strong></label>
+						<input type="text" name="name" id="name" placeholder="Your name" required>
+					</div>
+					<div class="area">
+						<label for="surname"><strong>Surname:</strong></label>
+						<input type="text" name="surname" id="surname" placeholder="Your surname" required>
+					</div>
+				</fieldset>
+				<div class="area">
+					<label for="email"><strong>Email:</strong></label>
+					<input type="email" name="email" id="email" placeholder="Your email" required>
+				</div>
+
+				<div class="area">
+					<label><strong>Are you a professional musician?</strong></label>
+					<label>
+						<input type="radio" name="yes" >I'm a professional musician
+					</label>
+					<label>
+						<input type="radio" name="no">I'm not a professional musician
+					</label>
+					<label>
+						<input type="radio" name="yes">I write copyright songs
+					</label>
+				</div>
+				<div class="area">
+					<label for="musician"><strong>Do you play a musical instrument and sing?</strong></label>
+					<select id="musician">
+						<option selected disabled value="">Select</option>
+						<option>I can play and sing</option>
+						<option>I just sing</option>
+						<option>I just play an instrument</option>
+					</select>
+				</div>
+				<fieldset class="group">
+					<div id="check">
+						<label><strong>What musical instrument do you play?</strong></label><br><br>
+						<input type="checkbox" id="instrument1" name="instrument1" value="guitar">
+						<label for="instrument1">Guitar</label>
+						<input type="checkbox" id="instrument2" name="instrument2" value="bass">
+						<label for="instrument2">Bass</label>
+						<input type="checkbox" id="instrument3" name="instrument3" value="drums">
+						<label for="instrument3">Drums</label>
+						<input type="checkbox" id="instrument4" name="instrument4" value="piano">
+						<label for="instrument4">Piano</label>
+						<input type="checkbox" id="instrument5" name="instrument5" value="fidle">
+						<label for="instrument5">Fiddle</label>
+						<input type="checkbox" id="other" name="other" value="other">
+						<label for="other">Other</label>
+					</div>
+				</fieldset>
+				<div class="area">
+					<br>
+					<label><strong>Tell us about your music experience:</strong></label>
+					<textarea rows="6" id="experience" name="experience"></textarea>
+				</div>
+				<div class="area">
+
+					<label><strong>Submit your audio:</strong></label>
+
+					<input type="file" id="audio" accept="audio/mp3">
+				</div>
+
+				<div class="area">
+
+					<label><strong>Submit your video:</strong></label>
+					<input type="file" id="video" accept="video/mp4">
+				</div>
+				
+				<button class="button" type="submit">Submit</button>
+			
+              
+			</form>
+
+	</div>
 
 
     </main>
