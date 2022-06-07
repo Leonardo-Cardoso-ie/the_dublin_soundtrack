@@ -349,4 +349,13 @@ footer > span {
     box-shadow:0 2px 2px #666;
 }
 
+/* join us */
+
+.form-page-header {
+    background-image: url('../images/joinheader.jpg');
+    height: 650px;
+    background-position: center;
+    position: relative;
+}
+
 
