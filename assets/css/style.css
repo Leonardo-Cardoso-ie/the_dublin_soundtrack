@@ -80,6 +80,11 @@ header {
 }
 
 #menu a:hover {
+    border-bottom: 1px solid #ff8c00;
+
+}
+
+#menu a:hover {
 	border-bottom: 1px solid #ff8c00;
 
 }
@@ -381,7 +386,7 @@ footer > span {
     margin: auto;
     border: 1px solid #ff8c00;
     border-radius: 15px;
-    opacity: 0.9;
+    opacity: 1;
     font-size: 18px;
     position: absolute;
     top: 10%;
@@ -391,6 +396,9 @@ footer > span {
 
 }
 
+#experience {
+    width: 26em; 
+}
 
 
 #content1{
@@ -479,6 +487,35 @@ fieldset .group .area {
 
 .area input:focus, .area select:focus, .campo textarea:focus {
     background: #3a3a3a;
+}
+
+.button {
+    font-size: 1.2em;
+    background:  #ff8c00;
+    border: 0;
+    margin-bottom: 1em;
+    color: #FFFAFA;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px #3a3a3a;
+    position: relative;
+    top: 40px;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+
+}
+
+.button:hover {
+    background: #D2691E;
+    box-shadow: inset 2px 2px 2px #3a3a3a; 
+    text-shadow: none;
+
+}
+
+#check {
+    display: inline-block;
+    color: #ff8c00; 
+
 }
 
 
