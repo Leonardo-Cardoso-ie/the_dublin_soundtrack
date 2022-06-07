@@ -419,4 +419,51 @@ footer > span {
 }
 
 
+#title {
+    font-family: Montserrat, sans-serif;
+    color: darkorange;
+    margin-left: 7%;	
+}
+
+
+
+
+fieldset {
+    border: 0;
+
+}
+
+#body2 {
+
+    font-family: Montserrat, sans-serif;
+    font-size: 1em;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+}
+
+input, select, textarea, button {
+    border-radius: 5px;
+
+}
+
+.area {
+    margin-bottom: 1em;
+    position: relative;
+    line-height: 1em;
+}
+
+.area label {
+    margin-bottom: 0.2em;
+    color: #ff8c00;
+    display: block;
+}
+
+fieldset .group .area {
+    float: left;
+    margin-right: 1em;
+
+}
+
+
 
