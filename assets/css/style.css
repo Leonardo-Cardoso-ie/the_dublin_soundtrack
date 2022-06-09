@@ -140,6 +140,11 @@ main>p {
 
 }
 
+.background a {
+
+    background-color: #ff8c00;
+}
+
 /*section contact */
 
 #contact {
