@@ -406,9 +406,12 @@ footer>span {
 
 }
 
-#content1>h1 {
+#content1 > h2 {
+    color: #000;
+    font-family: Oswald, sans-serif;
     text-align: center;
-    margin-top: 10px;
+    font-size: xx-large;
+    top: 10%;
 }
 
 #content1>p {
@@ -424,15 +427,6 @@ footer>span {
 
 
 }
-
-
-#title {
-    font-family: Montserrat, sans-serif;
-    color: darkorange;
-    margin-left: 7%;
-}
-
-
 
 
 fieldset {
