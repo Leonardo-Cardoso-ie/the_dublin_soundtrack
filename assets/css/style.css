@@ -514,8 +514,8 @@ fieldset .group .area {
     padding: 0.2em 0.6em;
     box-shadow: 2px 2px 2px #3a3a3a;
     position: relative;
-    top: 40px;
-    left: 20%;
+    top: 50px;
+    left: 50%;
     transform: translate(-50%, -50%);
     justify-content: center;
 
