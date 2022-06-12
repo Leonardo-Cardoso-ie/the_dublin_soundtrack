@@ -399,6 +399,17 @@ footer>span {
 
 }
 
+form {
+	width: 500px;
+	padding: 25px;
+	border-radius: 8px;
+	margin: 25px auto;
+	background-color: white;
+
+
+	
+}
+
 #experience {
     width: 26em;
 }
@@ -438,7 +449,7 @@ fieldset {
 
 }
 
-.sign h3 {
+.sign . h3 {
 	
 	color: #ff8c00;
     font-family: Oswald, sans-serif;
