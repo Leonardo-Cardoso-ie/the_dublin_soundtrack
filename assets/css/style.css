@@ -191,6 +191,10 @@ section {
 
 }
 
+.bold {
+    font-weight: bold;
+}
+
 .contact-box-center {
     width: 250px;
     height: 250px;
