@@ -438,14 +438,14 @@ fieldset {
 
 }
 
-#body2 {
-
-    font-family: Montserrat, sans-serif;
-    font-size: 1em;
-    margin-left: 36%;
-    margin-top: 2%;
-    justify-content: center;
-}
+.sign h3 {
+	
+	color: #ff8c00;
+    font-family: Oswald, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 80px;
+   }
 
 input,
 select,
