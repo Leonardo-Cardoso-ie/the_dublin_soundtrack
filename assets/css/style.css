@@ -537,12 +537,13 @@ fieldset .group .area {
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
 
-   #logo h1 {
+   #logo {
     font-size: 300%;
     transform: translate(-50%, -70%);
    } 
    .header-content >h2 {
     font-size: 130%;
+    top: 100px;
     transform: translate(-50%, -70%);
    }
 }
