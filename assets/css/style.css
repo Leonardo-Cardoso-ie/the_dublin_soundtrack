@@ -583,6 +583,15 @@ fieldset .group .area {
 
     }
 
+    .header-content >h2 {
+        font-size: 100%;
+        margin:  0;
+        position: absolute;
+        top: 90px;
+        margin-right: -50%;
+        transform: translate(-45%, -70%);
+}
+
 
     
 }
