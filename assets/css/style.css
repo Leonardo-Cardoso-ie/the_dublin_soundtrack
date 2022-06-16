@@ -658,6 +658,16 @@ fieldset .group .area {
     transform: translate(-33%, -70%);
 }
 
+#menu {
+    clear: left;
+    float: left;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    line-height: 20px;
+    
+}
+
+
 
 
 
