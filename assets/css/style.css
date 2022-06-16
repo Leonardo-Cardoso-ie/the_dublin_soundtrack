@@ -609,6 +609,23 @@ fieldset .group .area {
 
 }
 
+.text-form {
+    background-color: #FFE4C4;
+    width: 80%;
+    padding: 5%;
+    margin: auto;
+    border: 1px solid #ff8c00;
+    border-radius: 15px;
+    opacity: 1;
+    font-size: 18px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 1050px;
+
+}
+
 
     
 }
