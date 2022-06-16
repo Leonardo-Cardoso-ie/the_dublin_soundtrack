@@ -741,6 +741,75 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+#menu {
+    clear: left;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    line-height: 20px;
+    display:  inline;
+    clear: both;
+}
+
+#menu {
+		
+    font-size:100%;
+    font-weight: bold;
+} 
+
+#menu  {
+    line-height: 40px;
+}
+#contact {
+		
+	margin-bottom:  0;
+		text-align: justify;
+		height: 600px;
+		font-size: 16px;
+		
+	}
+
+ 	 .contact-boxes-container {
+		width: 50%;
+		text-align: justify;
+		margin-top:10px;
+		clear: both;
+		
+
+ 
+ 
+ }
+
+ .contact-box-left {
+		width: 150px;
+		margin-top: 10px;
+		float: left;
+		text-align: center;
+		
+	}
+
+	.contact-box-right {
+		width: 150px;
+		
+		margin-top: 10px;
+		float: left;
+		text-align: center;
+		
+		
+
+	}
+
+	.contact-box-center {
+		width: 150px;
+		
+	   	margin-top: 10px;
+	   	float: left;
+
+		
+	}
+
+
 }
 
 
