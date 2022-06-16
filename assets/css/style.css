@@ -664,8 +664,18 @@ fieldset .group .area {
     margin-left: 250px;
     margin-bottom: 20px;
     line-height: 20px;
-    
+
 }
+
+.contact-boxes-container {
+    width: 93%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 60px;
+
+
+}
+
 
 
 
