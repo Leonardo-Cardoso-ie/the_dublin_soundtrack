@@ -571,7 +571,21 @@ fieldset .group .area {
 
        }
 
+
+       #logo { 
+		
+        font-size: 250%;
+        position: absolute;
+        margin:0;
+        left: 26%;
+        margin-right: -50%;
+        transform: translate(-50%, -70%); 
+
+    }
+
+
     
 }
+
 
     
