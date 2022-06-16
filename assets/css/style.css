@@ -676,6 +676,15 @@ fieldset .group .area {
 
 }
 
+.container .box {
+    flex-direction: column;
+
+
+}
+.container .box .picture {
+    width: 100%;
+}
+
 
 
 
