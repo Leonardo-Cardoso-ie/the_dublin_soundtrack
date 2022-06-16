@@ -685,6 +685,17 @@ fieldset .group .area {
     width: 100%;
 }
 
+.logo-header>h1 {
+    margin: 0;
+    position: absolute;
+    font-size: 200%;
+    left: 35%;
+    margin-right: -50%;
+    transform: translate(-50%, -70%)
+    display: inline;
+}
+
+
 
 
 
