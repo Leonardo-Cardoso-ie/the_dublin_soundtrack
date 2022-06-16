@@ -704,6 +704,14 @@ fieldset .group .area {
         max-width: 480px;
         
     }
+
+    header {
+        background-image: url('../images/mobileblue.jpg');
+       background-size: cover;
+       background-position: right;
+       background-repeat: no-repeat;
+       height: 630px;
+    }
 }
 
 
