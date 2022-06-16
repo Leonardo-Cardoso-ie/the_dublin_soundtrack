@@ -691,7 +691,7 @@ fieldset .group .area {
     font-size: 200%;
     left: 35%;
     margin-right: -50%;
-    transform: translate(-50%, -70%)
+    transform: translate(-50%, -70%);
     display: inline;
 }
 
