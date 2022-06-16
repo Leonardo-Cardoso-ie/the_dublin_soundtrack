@@ -696,12 +696,14 @@ fieldset .group .area {
 }
 
 
+}
 
-
-
-
-
-
+/* screen sizes max 480px */
+@media screen and (max-width:  480px) {
+    body {
+        max-width: 480px;
+        
+    }
 }
 
 
