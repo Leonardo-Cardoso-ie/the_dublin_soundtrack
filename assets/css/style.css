@@ -814,5 +814,15 @@ fieldset .group .area {
 
     }
 
+    form {
+        width: 90%;
+        padding: 15px;
+        border-radius: 8px;
+        margin: 25px auto;
+        background-color: white;
+    
+        }
+    
+
 
 }
