@@ -726,6 +726,21 @@ fieldset .group .area {
         margin-left: 30px;
         top: 450px;
 }
+
+main {
+		
+    width: 80%;
+    padding: 5%;
+    margin: auto;
+    border: 1px solid darkorange;
+    border-radius: 15px;
+    opacity: 0.9;
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 }
 
 
