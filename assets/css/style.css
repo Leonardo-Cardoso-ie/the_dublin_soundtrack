@@ -712,6 +712,14 @@ fieldset .group .area {
        background-repeat: no-repeat;
        height: 630px;
     }
+
+    #logo { 
+		
+        font-size: 300%;
+        margin-left: 50px;
+        top: 400px;
+
+    }
 }
 
 
