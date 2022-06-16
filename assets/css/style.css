@@ -634,10 +634,27 @@ fieldset .group .area {
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
-
-
-    
+  
 }
+/* for screen sizes 769px */
+
+@media only screen and (max-width: 769px){
+    #logo {
+        font-size: 230%;
+        position: absolute;
+        margin:0;
+        left: 33%;
+        margin-right: -57%;
+        transform: translate(-50%, -70%); 
+
+}
+
+
+
+
+
+}
+
 
 
     
