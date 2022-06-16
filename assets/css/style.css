@@ -720,6 +720,12 @@ fieldset .group .area {
         top: 400px;
 
     }
+
+    .header-content >h2 {
+        font-size: 18px;
+        margin-left: 30px;
+        top: 450px;
+}
 }
 
 
